@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Aarjan 👋
 
-<!--
-**karkiaarjan458-arch/karkiaarjan458-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student with a growing interest in **AI and Machine Learning**, currently building a strong foundation in programming, object-oriented design, and web development.
 
-Here are some ideas to get you started:
+- 🎓 Studying IT, with a focus on AI/ML
+- 💻 Comfortable with Java, C#, and ASP.NET Core
+- 🌱 Currently exploring machine learning concepts and applications
+- 🎯 Interested in building intelligent, data-driven systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Java · C# · JavaScript · HTML/CSS
+**Frameworks & Tools:** ASP.NET Core Razor Pages · Entity Framework Core · Tailwind CSS
+**Currently learning:** Machine Learning fundamentals, Python for data/ML
+
+---
+
+### 📌 Featured Projects
+
+- **[ShopNest](https://github.com/karkiaarjan458-arch/ShopNest)** — A fully responsive e-commerce website built with ASP.NET Core, Entity Framework Core, and Tailwind CSS, featuring a customer shopping flow and an admin management panel.
+- **[University Java Projects](https://github.com/karkiaarjan458-arch/university-java-projects)** — Java projects covering core programming fundamentals and object-oriented design, including an OOP-based supermarket purchasing simulation.
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: karkiaarjan458@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/aarjan-karki](https://www.linkedin.com/in/aarjan-karki-86a906287/)
