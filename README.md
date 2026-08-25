@@ -27,4 +27,4 @@ I'm an IT student with a growing interest in **AI and Machine Learning**, curren
 ### 📫 Get in Touch
 
 - 📧 Email: karkiaarjan458@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/aarjan-karki](https://www.linkedin.com/in/aarjan-karki-86a906287/)
+- 💼 LinkedIn: https://www.linkedin.com/in/aarjan-karki-86a906287/
